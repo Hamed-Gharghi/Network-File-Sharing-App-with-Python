@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 2. **Run the Application**:
    ```sh
-   python app.py
+   python file_sharing_network_gui.py
    ```
 
    This will start the server and display a link to access the shared files.
